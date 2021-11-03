@@ -1,5 +1,3 @@
----
 title: Keyword Search
-layout: jekyll-theme-slate
-filename: keywordsearch.md
----
+layout: page
+permalink: https://pactive.github.io/spaceborne-pcms/keywordsearch
