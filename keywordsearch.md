@@ -1,3 +1,3 @@
 title: Keyword Search
-layout: 
+layout: jekyll-theme-slate
 filename: keywordsearch.md
